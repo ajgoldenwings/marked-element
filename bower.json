@@ -22,7 +22,6 @@
     "url": "git://github.com/PolymerElements/marked-element.git"
   },
   "dependencies": {
-    "marked": "~0.3.6",
     "polymer": "Polymer/polymer#1.9 - 2"
   },
   "devDependencies": {
