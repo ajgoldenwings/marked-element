@@ -22,6 +22,7 @@
     "url": "git://github.com/PolymerElements/marked-element.git"
   },
   "dependencies": {
+    "marked": "git://github.com/ajgoldenwings/marked#0.3.6-ajp",
     "polymer": "Polymer/polymer#1.9 - 2"
   },
   "devDependencies": {
