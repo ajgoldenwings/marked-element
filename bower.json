@@ -22,12 +22,12 @@
 		"url": "git://github.com/PolymerElements/marked-element.git"
 	},
 	"dependencies": {
-		"marked": "git://github.com/ajgoldenwings/marked",
+		"marked": "git://github.com/ajgoldenwings/marked#master",
 		"polymer": "Polymer/polymer#1.9 - 2",
 		"ajp-image": "git://github.com/ajgoldenwings/ajp-image"
 	},
 	"devDependencies": {
-		"marked": "git://github.com/ajgoldenwings/marked",
+		"marked": "git://github.com/ajgoldenwings/marked#master",
 		"paper-styles": "PolymerElements/paper-styles#1 - 2",
 		"iron-component-page": "PolymerElements/iron-component-page#1 - 2",
 		"test-fixture": "PolymerElements/test-fixture#^3.0.0-rc.1",
